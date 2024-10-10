@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "../../../../snap/arduino/85/Arduino/webserver/data"
+		},
+		{
+			"name": "Dummy",
+			"path": "../Dummy"
+		},
+		{
+			"name": "FileUpload",
+			"path": "../FileUpload"
+		},
+		{
+			"name": "File",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
